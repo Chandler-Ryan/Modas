@@ -1,2 +1,6 @@
 ﻿/bin/Debug/netcoreapp2.2
 /.vs/modas/v16
+/Properties
+/obj
+/.vs/modas/DesignTimeBuild
+/.vs/modas/config
