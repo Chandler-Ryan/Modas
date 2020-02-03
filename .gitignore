@@ -4,3 +4,6 @@
 /obj
 /.vs/modas/DesignTimeBuild
 /.vs/modas/config
+/appsettings.Development.json
+/appsettings.json
+/modas.csproj.user
